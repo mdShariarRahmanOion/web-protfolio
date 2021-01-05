@@ -1,3 +1,66 @@
-p{
-    font-size: 50px;
+
+h1{
+    font-size: ;
 }
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-bar{
+   margin-left: 850px;
+}
+.menu-bar{
+    float: left;
+    margin: 15px;
+    font-size: 15px;
+}
+h1{
+    font-size: 40px;
+   
+}
+.name-hightlight{
+    color: #0c016b;
+}
+
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color:#ff4242;
+    padding:10px 30px ;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+section{
+    height: 500px;
+}
+.working{
+    text-align: center;
+    padding: 60px;
+}
+#last-color{
+    color: coral;
+    font-weight: bold;
+}
+#bg-weight{
+    height: 700px;
+}
+#simple-color{
+    color:darkblue;
+    font-weight: bold;
+}
+#bg-color{
+    background-color:#f1ededf3;
+}
+.new{
+    width: 25%;
+}
+

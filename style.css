@@ -41,10 +41,12 @@ h1{
 }
 section{
     height: 500px;
+    
 }
 .working{
     text-align: center;
-    padding: 60px;
+    padding: 40px;
+
 }
 #last-color{
     color: coral;
@@ -57,10 +59,61 @@ section{
     color:darkblue;
     font-weight: bold;
 }
-#bg-color{
-    background-color:#f1ededf3;
+.sec3{
+    width: 100%;
+    height: 500px;
+    background-color:#d3c9c9f3;
 }
 .new{
-    width: 25%;
+    width: 26%;
+    float: left;
+    font-weight: bold;
+    padding-left: 55px;
+    border-radius: 10px;
+    height: 58%;
+    background-color: whitesmoke;
+    margin-left: 26px;
+    border: 4px solid white;
+    
+}
+#padding{
+    padding:20px;
 }
 
+.sec-img{
+    width: 250px;
+    padding-top: 5px;
+
+}
+
+#icon-shape{
+    width:40px;
+    padding:10px 20px%;
+}
+.img-shape{
+    width: 800px;
+    height: 250px;
+    padding-left: 250px;
+    padding-top: 100px;
+}
+.footer-text{
+    text-align: center;
+    font-size: 12px;
+}
+.size{
+    width: 10px;
+}
+footer p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+}
+.icon{
+    text-align: center;
+    
+}
+.icon-width{
+    width: 50px;
+    height: 50px;
+}
